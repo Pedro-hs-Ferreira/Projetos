@@ -99,7 +99,7 @@ Este projeto ajuda a praticar:
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por Pedrinho 🚀
+Projeto desenvolvido por Pedro Ferreira 🚀
 
 ```
 ```
